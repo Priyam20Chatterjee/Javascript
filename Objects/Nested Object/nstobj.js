@@ -3,7 +3,7 @@ const user1 = {
     secondname: "Chatterjee",
     age: 19,
     address: {
-        city: "Banglore",
+        city: "Bangalore",
         area: "Kanakpura",
         pincode: 546743,
         state: "karnataka",
@@ -20,7 +20,7 @@ const user2 = {
     secondname: "Panda",
     age: 19,
     address: {
-        city: "Banglore",
+        city: "Bangalore",
         area: "Kanakpura",
         pincode: 546743,
         state: "karnataka",
